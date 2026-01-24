@@ -1,0 +1,90 @@
+#head {
+    background-color:thistle;
+    border-radius: 30px;
+    text-align: center;
+}
+
+h2 {
+    color:steelblue;
+}
+
+hr {
+    border: 1px solid slategray;
+}
+
+
+#footer {
+    background-color:thistle;
+    border-radius: 50px;
+    text-align: center;
+    
+    
+}
+h5 {
+    color:black;
+}
+
+fieldset {
+    border: 2px solid slategray;
+}
+
+legend {
+    color:steelblue ;
+}
+
+label {
+    color:steelblue
+}
+
+#msg {
+    color:slategray
+}
+
+.flex-box {
+    /* background-color:rgb(176, 216, 223); */
+    display: flex;
+    margin-bottom: 10px;
+    border-radius: 50px;
+    width: 100%;
+    /* justify-content: center; */
+}
+
+.flex-element1 {
+
+}
+
+.flex-element2 {
+    /* text-align: start; */
+}
+
+.flex-element3 {
+    /* text-align: end; */
+}
+
+.flex-box2 {
+    /* background-color:rgb(176, 216, 223); */
+    display: flex;
+    margin-bottom: 10px;
+    border-radius: 50px;
+    width: 100%;
+    /* justify-content: center; */
+}
+
+.flex-element21 {
+    /* text-align: center; */
+}
+
+.flex-element22 {
+    /* text-align: start; */
+
+}
+
+.flex-element23 {
+    /* text-align: start; */
+
+}
+
+.flex-element24 {
+    /* text-align: start; */
+
+}
