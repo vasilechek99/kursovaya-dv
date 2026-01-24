@@ -17,8 +17,6 @@ hr {
     background-color:thistle;
     border-radius: 50px;
     text-align: center;
-    
-    
 }
 h5 {
     color:black;
@@ -87,4 +85,19 @@ label {
 .flex-element24 {
     /* text-align: start; */
 
+}
+
+#about, #projects, #articles {
+    border-left: 5px solid steelblue;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+#projects {
+    border-left: 5px solid slategray;
+    border-radius: 10px;
+    padding-left: 10px;
+    h2 {
+        color: slategray
+    }
 }
