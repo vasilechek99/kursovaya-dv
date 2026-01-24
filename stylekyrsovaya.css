@@ -47,17 +47,17 @@ label {
     /* justify-content: center; */
 }
 
-.flex-element1 {
+/* .flex-element1 {
 
 }
 
 .flex-element2 {
-    /* text-align: start; */
+    text-align: start; 
 }
 
 .flex-element3 {
-    /* text-align: end; */
-}
+    text-align: end; 
+} */
 
 .flex-box2 {
     /* background-color:rgb(176, 216, 223); */
@@ -68,24 +68,24 @@ label {
     /* justify-content: center; */
 }
 
-.flex-element21 {
-    /* text-align: center; */
+/* .flex-element21 {
+     text-align: center; 
 }
 
 .flex-element22 {
-    /* text-align: start; */
+     text-align: start; 
 
 }
 
 .flex-element23 {
-    /* text-align: start; */
+    text-align: start; 
 
 }
 
 .flex-element24 {
-    /* text-align: start; */
+     text-align: start; 
 
-}
+} */
 
 #about, #projects, #articles {
     border-left: 5px solid steelblue;
